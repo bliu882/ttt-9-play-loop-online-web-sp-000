@@ -40,4 +40,4 @@ def play(board)
   turn count = 0 
   while turn count > 9 
   turn(board)
-else 
+  turn count += 1
